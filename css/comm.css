@@ -73,9 +73,9 @@
       }
       
       .dropdown-content a:hover {
-        background-color: #ddd;
+        background-color: rgb(71, 71, 71);
       }
-      
+
       .dropdown:hover .dropdown-content {
         display: block;
       }
